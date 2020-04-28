@@ -1,0 +1,19 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- name: hero
+  type: file
+  config:
+    maxSize: 64
+  label: Hero
+  description: Place image hero
+  hidden: false
+pages:
+- content/post/hai-ini-kisah-pertamaku-menggunakan-forestry-netlify-dan-hugo.md
