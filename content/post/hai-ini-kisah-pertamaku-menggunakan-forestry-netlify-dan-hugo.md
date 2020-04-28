@@ -1,9 +1,9 @@
 +++
 date = 2020-04-28T09:12:00Z
+hero = "/uploads/francisco-andreotti-RZ8-_m3c9zw-unsplash (1).jpg"
 title = "Hai, Ini Kisah Pertamaku Menggunakan Forestry, Netlify, dan Hugo"
 
 +++
-![](/uploads/francisco-andreotti-RZ8-_m3c9zw-unsplash (1).jpg)
 
 ## Rasanya?
 
