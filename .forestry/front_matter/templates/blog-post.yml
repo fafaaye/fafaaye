@@ -15,5 +15,3 @@ fields:
   label: Hero
   description: Place image hero
   hidden: false
-pages:
-- content/post/hai-ini-kisah-pertamaku-menggunakan-forestry-netlify-dan-hugo.md
