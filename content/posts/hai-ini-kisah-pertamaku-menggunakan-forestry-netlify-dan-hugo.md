@@ -1,10 +1,11 @@
 +++
-date = 2020-04-28T09:12:00Z
-hero = ""
-title = "Hai, Ini Kisah Pertamaku Menggunakan Forestry, Netlify, dan Hugo"
 author = "fafaya"
 cover = "img/test.jpg"
+date = 2020-04-28T09:12:00Z
 description = "Curcol"
+hero = ""
+title = "Hai! Ini Kisah Pertamaku Menggunakan Forestry, Netlify, dan Hugo"
+
 +++
 ## Rasanya?
 
