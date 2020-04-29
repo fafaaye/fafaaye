@@ -10,9 +10,9 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/post
+  path: content/posts
   label: Post
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: static/img
 public_path: "/uploads"
