@@ -17,6 +17,7 @@ enableEmoji = "true"
   # Show reading time in minutes for posts
   showReadingTime = false
 
+
 [languages]
   [languages.en]
     title = "Hello Friend"
@@ -44,6 +45,8 @@ enableEmoji = "true"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
+     favicon = "/img/logo.ico"
+     
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello Friend</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2020 09:12:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hai, Ini Kisah Pertamaku Menggunakan Forestry, Netlify, dan Hugo</title>
+      <link>/posts/hai-ini-kisah-pertamaku-menggunakan-forestry-netlify-dan-hugo/</link>
+      <pubDate>Tue, 28 Apr 2020 09:12:00 +0000</pubDate>
+      
+      <guid>/posts/hai-ini-kisah-pertamaku-menggunakan-forestry-netlify-dan-hugo/</guid>
+      <description>Rasanya? Unik sih, mencoba membuat blog menggunakan terminal, kemudian push ke Github, kemudian deploy menggunakan Netlify, selanjutnya mencoba menggunakan Forestry.io. Apakah bisa? kita lihat saja apakah postingan ini berhasil mengudara 😆
+Rasanya sempat pusing di awal-awal, karena harus mempelajari cara menggunakan git yang walaupun penulis sudah pernah paham, namun tidak sampai 100% sehingga perlu belajar lagi. Namun memang, keterampilan menggunakan git harus sering-sering dipakai, buktinya saya yang terakhir memakai git satu bulan yang lalu sudah lupa ✨</description>
+    </item>
+    
+    <item>
+      <title>Coba Coba Ah</title>
+      <link>/posts/coba-coba-ah/</link>
+      <pubDate>Tue, 28 Apr 2020 15:37:24 +0700</pubDate>
+      
+      <guid>/posts/coba-coba-ah/</guid>
+      <description>Tenuit lenta alis tum sanguine verus inde Qualia modo mihi Stymphalides furor ac adulantes Lorem markdownum retinebat. Quod quem Atlas inposuit turaque erat.
+Iram quod, ululatibus molimine utque, occurret et humus potitur Colchis manant; visa omnia generi duxit fallaci. Similisque repente valle nubila qua Inachis secura, nisi Oriente amans domus, adsueta. Ab litus oculos, iam, saevit, superabat cum violentam et possent inritus aera color est totidem iussa, ramos. Vota diversa! Tutus matri ferrum corpus, et mittit victum.</description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
+— Mr. Robot S01E01
+ </description>
+    </item>
+    
+  </channel>
+</rss>
